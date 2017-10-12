@@ -3,14 +3,14 @@
 <!--config.xml reference:https://build.phonegap.com/docs/config-xml-->
 <widget xmlns = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id = "com.phonegap.appMarx"
+        id = "com.phonegap.LudwynProject"
         version = "1.0.0">
-    <name>APP Grupo 5 </name>
+    <name>LudwynProject</name>
     <description>
     Hello Grupo 5 Aplication 2017.
     </description>
- <author href="https://github.com/JhairxitoRD/PROYECTOMOVIL2017.git" email="Jhairrd@hotmail.com">
- Grupo 5 Team
+ <author href="https://github.com/Ludwyn/LudwynProject.git" email="Ludwyn_QQ@hotmail.com">
+ LudwynProject
  </author>
  <content src="index.php"/>
  <!-- <access origin="*" /> -->
